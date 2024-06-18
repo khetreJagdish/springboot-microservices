@@ -1,0 +1,7 @@
+package com.springboot.microservices.limits_service.configuration;
+
+public class Configuration {
+	
+	private int minimum;
+	private int maximum;
+}

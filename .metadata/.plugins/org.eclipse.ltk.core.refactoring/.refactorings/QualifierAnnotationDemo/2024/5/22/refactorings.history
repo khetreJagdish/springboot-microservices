@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;collect&apos; from expression &apos;list.stream().collect(Collectors.toMap(Person::getName,person -&gt; person))&apos;&#x0D;&#x0A;- Original project: &apos;QualifierAnnotationDemo&apos;&#x0D;&#x0A;- Variable name: &apos;collect&apos;&#x0D;&#x0A;- Destination method: &apos;com.springboot.qualifierw.Demo.main(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;list.stream().collect(Collectors.toMap(Person::getName,person -&gt; person))&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;collect&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.springboot.qualifierw{Demo.java" name="collect" replace="true" replaceAllInThisFile="false" selection="485 84" stamp="1717056858532" varType="false" version="1.0"/>
+</session>

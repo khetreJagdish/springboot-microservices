@@ -1,0 +1,7 @@
+package com.springboot.webservices.restful_web_services.exception;
+
+import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
+
+public class CustomizeResponseEntityExceptionHandler extends ResponseEntityExceptionHandler {
+
+}

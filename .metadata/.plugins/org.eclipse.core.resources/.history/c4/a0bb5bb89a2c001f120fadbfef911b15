@@ -1,0 +1,5 @@
+package com.springboot.microservices.limits_service.bean;
+
+public class Limits {
+
+}
